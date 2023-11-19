@@ -1,6 +1,8 @@
 # flutter_point_app
 
 A new Flutter project.
+![demo](https://gyazo.com/a9c19d15d4d507bebef01fce4eba5aac/raw)
+
 
 ## Getting Started
 
